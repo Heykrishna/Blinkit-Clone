@@ -1,4 +1,4 @@
-@media only scrren and (min-width:200px) and (max-width:575px){
+@media only scrren and (min-width:200px) and (max-width:575px) {
     .media h1 {
         color: yellow;
     }
@@ -9,12 +9,8 @@
 
 
 
-@media only scrren and (min-width:576px) and (max-width:991px){
+@media only scrren and (min-width:576px) and (max-width:991px) {
     .media h1 {
         color: blue;
     }
 }
-
-
-
-
